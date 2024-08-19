@@ -6,23 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
-I am currently working in the Department of Mathematics at Jinan (暨南) University in Guangzhou, China. I got my PhD in applied mathematics at Sun Yat-sen University in 2022. My research focuses on developing advanced **non-i.i.d.-oriented machine learning algorithms** for heterogeneous biomedical data, including multi-omics and single-cell data, as well as histopathological images.
+# 课程说明
 
-Publications
-======
-* Zhao R-L, Wang W. Invariant risk minimization is a total variation model. In: *41st  International Conference on Machine Learning (ICML 2024)* [[arXiv](https://arxiv.org/abs/2405.01389)] 
-* Yang J, Wang W, Zhang X. scSemiGCN: boosting cell-type annotation from noise-resistant graph neural networks with extremely limited supervision. *Bioinformatics*, 2024, 40(2): btae091.
-* Wang W, Zhang X, Dai D-Q. springD2A: capturing uncertainty in disease-drug association prediction. *Bioinformatics*, 2022, 38(5):1353–1360.
-* Zhang X, Wang W, Ren C-X, Dai D-Q. Learning representation for multiple biological networks via a robust graph regularized integration approach. *Briefings in Bioinformatics*, 2022, 23(1):bbab409.
-* Song W, Wang W, Dai D-Q. Subtype-WESLR: identifying cancer subtype with weighted ensemble sparse latent representation of multi-view data. *Briefings in Bioinformatics*, 2022, 23(1):bbab398.
-*  Liu Y, Wang W, Ren C-X, Dai D-Q. MetaCon: meta contrastive learning for microsatellite instability detection. In: *24th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*. Strasbourg, France: 2021:267–276.
-* Wang W, Zhang X, Dai D-Q. DeFusion: a denoised network regularization framework for multi-omics integration. *Briefings in Bioinformatics*, 2021, 22(5):bbab057.
-
-Teaching
-======
-* *Calculus I* for undergraduates (Autumn 2022, Autumn 2023)
-* *Probability and Mathematical Statistics* for undergraduates (Spring 2023)
-* *High-dimensional Data Analysis* for MSc (Spring 2023, Spring 2024)
-* *Optimization Methods* for MSc (Spring 2024)
+* **授课对象**: 本课程面向暨南大学本科经管类外招学生, 课程编号<u>07010156</u>
+* **教材及参考书目**
+  * 教材: **微积分**, 赵树嫄主编, 第五版, 北京: 中国人民出版社, 2021.8
+* **任课教师**: [王伟文](https://wangyuanhao.github.io)
+* **成绩评定**
+  * <font color=blue>**闭卷期末考试**: 60%</font>
+  * <font color=blue>**平时成绩**: 40%</font>
+    * 作业: 1/2
+    * 随堂测试: 1/4
+    * 出勤: 1/4
