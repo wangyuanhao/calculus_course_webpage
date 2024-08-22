@@ -25,7 +25,7 @@ redirect_from:
     * 随堂测试: 1/4
     * 出勤: 1/4
 
-### <font color=purple><a name='1' style="text-decoration:none;color:purple">预备知识</a></font>
+### ⭐️ <font color=purple><a name='1' style="text-decoration:none;color:purple">预备知识</a></font>
 
 学生应具备以下两个基本知识, 但这不是必须的, 如果之前没有了解过, 请特别留意课堂上关于这两个知识点的讲解及课后加强学习. 从经验来看, 这两个知识点是较多学生通过本门课程的“拦路虎”.
 
@@ -36,14 +36,14 @@ redirect_from:
   * 平面直角坐标系表示方法
   * 平面上的直线表示及几何性质(斜率)
 
-### <a name="2" style="text-decoration:none;color:purple">课程表</a>
+### ⭐️ <a name="2" style="text-decoration:none;color:purple">课程表</a>
 
 |   学院   |                   时间                   |         地点          |             办公室答疑时间             |
 | :------: | :--------------------------------------: | :-------------------: | :------------------------------------: |
 | 管理学院 |  **4-18周, 星期五, 6-8节, 14:00-16:35**  | **番禺教学大楼401室** | 每周四下午13:30-15:30, 校本部南海楼331 |
 | 经济学院 | **4-18周, 星期五, 10-12节, 18:30-21:05** | **番禺教学大楼324室** | 每周四下午13:30-15:30, 校本部南海楼331 |
 
-### <a name="3" style="text-decoration:none;color:purple">教学日历</a>
+### ⭐️ <a name="3" style="text-decoration:none;color:purple">教学日历</a>
 
 📢 **<font color=red>相关材料及作业与提交时间将不定时更新, 请各位同学留意通知信息</font>** ‼️
 
@@ -118,10 +118,10 @@ redirect_from:
 |                |                     期末考注意事项与答疑                     |      |                             |
 |                |                                                              |      |                             |
 
-### <a name="4" style="text-decoration:none;color:purple">往年期末考试题</a>
+### ⭐️ <a name="4" style="text-decoration:none;color:purple">往年期末考试题</a>
 
 * 2023秋期末考试卷
 
-### <a name="5" style="text-decoration:none;color:purple">版本信息</a>
+### ⭐️ <a name="5" style="text-decoration:none;color:purple">版本信息</a>
 
 * 📢 2024-08-23创建版本
