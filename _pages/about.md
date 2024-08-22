@@ -14,7 +14,7 @@ redirect_from:
 * **教材及参考书目**
   * 教材: **微积分**, 赵树嫄主编, 第五版, 北京: 中国人民出版社, 2021.8.
   * 参考书: **微积分(上册),**  James Stewart, 第七版, 影印版, 北京: 高等教育出版社, 2014.6. (英文)
-* **任课教师**: <a href="#https://wangyuanhao.github.io" style="text-decoration:none;">**王伟文**</a>
+* **任课教师**: <a href="https://wangyuanhao.github.io" style="text-decoration:none;">**王伟文**</a>
 * **成绩评定**
   * **闭卷期末考试**: 60%
   * **平时成绩**: 40%
