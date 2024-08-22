@@ -45,7 +45,7 @@ redirect_from:
 
 ### <a name="3" style="text-decoration:none;color:purple">教学日历</a>
 
-📢 **<font color=red>相关材料及作业与提交时间将不定时更新, 请各位同学留意通知信息.</font>** ‼️
+📢 **<font color=red>相关材料及作业与提交时间将不定时更新, 请各位同学留意通知信息</font>** ‼️
 
 |      日期      |                             要点                             | 讲义 | <font color=red>作业</font> |
 | :------------: | :----------------------------------------------------------: | :--: | :-------------------------: |
@@ -124,4 +124,4 @@ redirect_from:
 
 ### <a name="5" style="text-decoration:none;color:purple">版本信息</a>
 
-* 2024-08-23: 创建版本
+* 📢 2024-08-23创建版本
