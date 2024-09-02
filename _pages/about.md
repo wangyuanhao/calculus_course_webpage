@@ -45,6 +45,8 @@ redirect_from:
 
 ### ⭐️ <a name="3" style="text-decoration:none;color:purple">教学日历</a>
 
+📢 **[2024-2025校历](../notes/2024_2025_Calendar.pdf)**
+
 📢 **<font color=red>相关材料及作业与提交时间将不定时更新, 请各位同学留意通知信息</font>** ‼️
 
 |      日期      |                             要点                             |               讲义                | <font color=red>作业</font> |
