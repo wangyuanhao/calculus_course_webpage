@@ -127,7 +127,7 @@ redirect_from:
 《微积分I》视频公开课资料在各大网站上十分丰富, 这里提供一些参考, 注意不同课程要求有所差异, 请同学们以本课程为主线.
 
 * 宋浩, 微积分I, [B站](https://www.bilibili.com/video/BV1UW411k7Jv/?spm_id_from=333.337.search-card.all.click)
-* Math for Thought, Alculus I: Introduction.
+* Math for Thought, Calculus I: Introduction.
 
 ### ⭐️ <a name="6" style="text-decoration:none;color:purple">版本信息</a>
 
