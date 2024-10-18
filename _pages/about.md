@@ -67,7 +67,7 @@ redirect_from:
 |                                     |                                                              |                                   |                                                           |
 |                                     |             <font color=blue>第一章练习题</font>             | [pdf](../notes/Ch1_exercise.pdf)  |                                                           |
 |                                     |                                                              |                                   |                                                           |
-|           2024年10月18日            |     数列及数列极限的概念$\epsilon-N$语言、数列收敛与发散     |     [pdf](../notes/part3.pdf)     |                                                           |
+|           2024年10月18日            |     数列及数列极限的概念$\epsilon-N$语言、数列收敛与发散     |     [pdf](../notes/part3.pdf)     |           习题二[2(1)、3]<br/>提交日期10月25日            |
 |                                     | 函数极限的两种情形($x\rightarrow \infty$和$x\rightarrow 0$)、函数的左右极限 |                                   |                                                           |
 |                                     | 关于极限的定理: 利用极限<u>存在判定定理判定</u>极限是否存在、<br />利用<u>极限局部保号性</u>判定极限或函数的符号、理解<u>极限局部有界性</u>的几何意义 |                                   |                                                           |
 |                                     |                                                              |                                   |                                                           |
