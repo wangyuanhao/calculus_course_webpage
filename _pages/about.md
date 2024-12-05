@@ -92,9 +92,9 @@ redirect_from:
 |                                       |                         复合函数求导                         |                                   |                                                              |
 |                                       |             <font color=blue>求导练习题一</font>             | [pdf](../notes/Ch3_exercise1.pdf) |                                                              |
 |                                       |                                                              |                                   |                                                              |
-|            2024年12月06日             |                    反函数求导、对数求导法                    |     [pdf](../notes/part8.pdf)     |                                                              |
+|            2024年12月06日             |                    反函数求导、对数求导法                    |     [pdf](../notes/part8.pdf)     | 习题三[21(9)(13)(19)、24(1)(3)、29(1)、30(1)、47(2)、57(1)(3)(4)(5)]提交日期：12月13日 |
 |                                       |                 隐函数求导与参数方程函数求导                 |                                   |                                                              |
-|                                       | 高阶导数、微分定义、微分与导数的关系、微分在近似计算中的应用 |     [pdf](../notes/part9.pdf)     |                                                              |
+|                                       | 高阶导数、微分定义、微分与导数的关系、微分在近似计算中的应用 |                                   |                                                              |
 |                                       |             <font color=blue>求导练习题二</font>             | [pdf](../notes/Ch3_exercise2.pdf) |                                                              |
 |                                       |                                                              |                                   |                                                              |
 |            2024年12月13日             |  微分中值定理: 罗尔中值定理、拉格朗日中值定理、柯西中值定理  |    [pdf](../notes/part10.pdf)     |                                                              |
@@ -118,7 +118,8 @@ redirect_from:
 
 ### ⭐️ <a name="4" style="text-decoration:none;color:purple">往年期末考试题</a>
 
-* 2023秋期末考试卷[[PDF](../notes/exam-cal2023c_solution.pdf)]
+* 2023秋期末考试卷C[[PDF](../notes/exam-cal2023c_solution.pdf)]
+* 2023秋期末考试卷A[[PDF](../notes/exam-cal2023a_solution.pdf)]
 
 ### ⭐️ <a name="5" style="text-decoration:none;color:purple">其他课程资料</a>
 
