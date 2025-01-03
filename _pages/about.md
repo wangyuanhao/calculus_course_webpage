@@ -63,7 +63,7 @@ redirect_from:
 |                                       |                             []()                             |                                   |                                                              |
 |            2024年10月11日             |              函数奇偶性、周期性、有界性、单调性              |     [pdf](../notes/part2.pdf)     |            习题一[44(1)(10),50(1),52(1),54,57(1)]            |
 |                                       |     反函数概念及反函数求解、复合函数及复合函数定义域求解     |                                   |                       提交日期10月25日                       |
-|                                       |             <font color=blue>第一章练习题</font>             | [pdf](../notes/Ch1_exercise.pdf)  |                                                              |
+|                                       |             <font color=blue>第一章练习题</font>             | [pdf](../notes/Ch1_exercise.pdf)  |        [解答[solution]](../notes/Ch1_ex_solution.jpg)        |
 |                                       |                                                              |                                   |                                                              |
 |            2024年10月18日             |                常见的基本初等函数图形和性质、                |                                   |                                                              |
 |                                       |     数列及数列极限的概念$\epsilon-N$语言、数列收敛与发散     |     [pdf](../notes/part3.pdf)     |             习题二[2(1)、3]<br/>提交日期10月25日             |
@@ -84,7 +84,7 @@ redirect_from:
 |                                       |                     闭区间连续函数的性质                     |                                   |                                                              |
 |                                       |                   利用函数连续性求函数极限                   |                                   |                                                              |
 |                                       |                                                              |                                   |                                                              |
-|                                       |             <font color=blue>第二章练习题</font>             | [pdf](../notes/Ch2_exercise.pdf)  |                                                              |
+|                                       |             <font color=blue>第二章练习题</font>             | [pdf](../notes/Ch2_exercise.pdf)  |        [解答[solution]](../notes/Ch2_ex_solution.jpg)        |
 |                                       |                                                              |                                   |                                                              |
 | ~~2024年11月22日~~</br>2024年11月29日 |             导数概念及几何意义、利用导数定义求导             |     [pdf](../notes/part7.pdf)     |                          校运会停课                          |
 |                                       |            左右导数与可导性、函数可导与连续的关系            |                                   | 习题三[2(1)、11、15(1)(4)、16(3)(6)、17(2)(4)、18]提交日期：12月13日 |
@@ -95,7 +95,7 @@ redirect_from:
 |            2024年12月06日             |                    反函数求导、对数求导法                    |     [pdf](../notes/part8.pdf)     | 习题三[21(9)(13)(19)、24(1)(3)、29(1)、30(1)、47(2)]提交日期：12月13日 |
 |                                       |                 隐函数求导与参数方程函数求导                 |                                   |                                                              |
 |                                       | 高阶导数、微分定义、微分与导数的关系、微分在近似计算中的应用 |                                   |                                                              |
-|                                       |             <font color=blue>求导练习题二</font>             | [pdf](../notes/Ch3_exercise2.pdf) |                                                              |
+|                                       |             <font color=blue>求导练习题二</font>             | [pdf](../notes/Ch3_exercise2.pdf) |       [解答[solution]](../notes/Ch3_ex2_solution.jpg)        |
 |                                       |                                                              |                                   |                                                              |
 |            2024年12月13日             |         微分中值定理: 罗尔中值定理、拉格朗日中值定理         |    [pdf](../notes/part10.pdf)     | 习题三[57(1)(3)(5)]、习题四[1(1)、2(2)、9(1)(2)(3)]提交日期：12月27日 |
 |                                       |                          洛必达法则                          |                                   |                                                              |
