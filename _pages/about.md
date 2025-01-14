@@ -122,6 +122,7 @@ redirect_from:
 
 * 2023秋期末考试卷C[[PDF](../notes/exam-cal2023c_solution.pdf)]
 * 2023秋期末考试卷A[[PDF](../notes/exam-cal2023a_solution.pdf)]
+* 2024秋期末考试卷A[[PDF](../notes/exam-cal2024a_solution.pdf)]
 
 ### ⭐️ <a name="5" style="text-decoration:none;color:purple">其他课程资料</a>
 
