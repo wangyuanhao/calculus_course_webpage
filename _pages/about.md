@@ -130,8 +130,8 @@ redirect_from:
 
 * 宋浩, 微积分I, [B站](https://www.bilibili.com/video/BV1UW411k7Jv/?spm_id_from=333.337.search-card.all.click)
 * Math for Thought, Calculus I: Introduction.
-<!-- 
-### ⭐️ <a name="6" style="text-decoration:none;color:purple">版本信息</a>
+
+<!-- ### ⭐️ <a name="6" style="text-decoration:none;color:purple">版本信息</a>
 
 * 📢 2024-08-23创建版本
 * 📢 2024-09-02讲义更新 -->
