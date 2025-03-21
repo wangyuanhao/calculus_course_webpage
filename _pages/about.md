@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-|[预备知识](#1)|[课程表](#2)|[教学日历](#3)|[往年期末考试题](#4)|[其他课程资料](#5)|[版本信息](#5)|
+<!-- |[预备知识](#1)|[课程表](#2)|[教学日历](#3)|[往年期末考试题](#4)|[其他课程资料](#5)|[版本信息](#5)| -->
 
 本门课程要求学生理解微积分I中的一些基本概念, 如极限、函数连续性与单调性、导数与微分等, 掌握一般的求极限、导数的计算方法, 能够利用这些计算方法探究函数的一些基本性质, 并应用于处理经济学及管理学中一些简单问题.
 
@@ -118,11 +118,11 @@ redirect_from:
 |            2025年01月09日             |                     期末考试(Final exam)                     |                                   |                                                              |
 |                                       |                                                              |                                   |                                                              |
 
-### ⭐️ <a name="4" style="text-decoration:none;color:purple">往年期末考试题</a>
+<!-- ### ⭐️ <a name="4" style="text-decoration:none;color:purple">往年期末考试题</a>
 
 * 2023秋期末考试卷C[[PDF](../notes/exam-cal2023c_solution.pdf)]
 * 2023秋期末考试卷A[[PDF](../notes/exam-cal2023a_solution.pdf)]
-* 2024秋期末考试卷A[[PDF](../notes/exam-cal2024a_solution.pdf)]
+* 2024秋期末考试卷A[[PDF](../notes/exam-cal2024a_solution.pdf)] -->
 
 ### ⭐️ <a name="5" style="text-decoration:none;color:purple">其他课程资料</a>
 
@@ -130,8 +130,8 @@ redirect_from:
 
 * 宋浩, 微积分I, [B站](https://www.bilibili.com/video/BV1UW411k7Jv/?spm_id_from=333.337.search-card.all.click)
 * Math for Thought, Calculus I: Introduction.
-
+<!-- 
 ### ⭐️ <a name="6" style="text-decoration:none;color:purple">版本信息</a>
 
 * 📢 2024-08-23创建版本
-* 📢 2024-09-02讲义更新
+* 📢 2024-09-02讲义更新 -->
